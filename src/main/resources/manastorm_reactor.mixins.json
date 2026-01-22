@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "chiefarug.mods.manastorm_reactor.mixin",
+  "mixins": [
+    "ManaStormEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "minVersion": "0.8"
+}
